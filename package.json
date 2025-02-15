@@ -1,0 +1,26 @@
+{
+  "name": "@gabrielmaialva33/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "repository": "gabrielmaialva33/tsconfig",
+  "author": {
+    "name": "Gabriel Maia",
+    "email": "gabrielmaialva33@gmail.com",
+    "url": "https://github.com/gabrielmaialva33"
+  },
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
